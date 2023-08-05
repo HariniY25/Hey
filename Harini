@@ -1,0 +1,9 @@
+Hello everyone
+my name is Y Harini.Im a 18 years old student studying BTech 1st year. 
+In today's session I learnt many things like front-end and back end applications, I wrote an exam and today's class was interesting and made me think of attending more classes.
+About front-end- it is an application which is the first page of a website.
+Front end gives a request to the Middleware through the API and Middleware checks the application whether it is correct ot wrong.
+After this the application is sent to the controller and this takes the data from the database through the driver and by this the controller gives response to the application 
+This the communication between the front-end and database.
+Here tha bridge between front-end and Middleware is API and the bridge between application and database is the driver.
+Thank you
